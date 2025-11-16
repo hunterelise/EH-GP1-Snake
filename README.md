@@ -1,6 +1,6 @@
 # Snake Game (Console Edition)
 
-A classic Snake game implemented in **C++** for the **Windows Console**, featuring object-oriented design, memory management, and interactive gameplay.
+A classic Snake game implemented in **C++** for the **Windows Console**.
 
 ## Features
 
